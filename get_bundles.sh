@@ -6,9 +6,6 @@ git clone https://github.com/mileszs/ack.vim.git ./bundle/ack.vim
 #Ctrl.p
 git clone https://github.com/kien/ctrlp.vim.git ./bundle/ctrlp.vim
 
-#nerdtree
-git clone https://github.com/scrooloose/nerdtree.git ./bundle/nerdtree
-
 #supertab 
 git clone https://github.com/ervandew/supertab.git ./bundle/supertab
 
@@ -22,4 +19,7 @@ git clone git://github.com/altercation/vim-colors-solarized.git ./bundle/vim-col
 
 #vim-multiple-cursors
 git clone https://github.com/terryma/vim-multiple-cursors.git ./bundle/vim-multiple-cursors
+
+#easy-motion
+git clone https://github.com/Lokaltog/vim-easymotion.git
 
