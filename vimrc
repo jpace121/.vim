@@ -25,6 +25,8 @@ else
 	colorscheme solarized 
 endif
 
+set t_Co=256
+
 au BufRead,BufNewFile *.md set filetype=markdown
 
 map <C-f> :NERDTreeToggle<CR>
