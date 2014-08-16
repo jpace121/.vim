@@ -7,8 +7,11 @@ set backspace=indent,eol,start
 set sts=4
 set sw=4
 "set expandtab
+"set smarttab
 
 set ruler
+
+let mapleader = "\<space>"
 
 execute pathogen#infect()
 "filetype plugin indent on"
