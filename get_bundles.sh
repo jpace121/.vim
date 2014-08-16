@@ -21,5 +21,5 @@ git clone git://github.com/altercation/vim-colors-solarized.git ./bundle/vim-col
 git clone https://github.com/terryma/vim-multiple-cursors.git ./bundle/vim-multiple-cursors
 
 #easy-motion
-#git clone https://github.com/Lokaltog/vim-easymotion.git
+git clone https://github.com/Lokaltog/vim-easymotion.git ./bundle/vim-easymotion
 
