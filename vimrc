@@ -29,7 +29,6 @@ set t_Co=256
 
 au BufRead,BufNewFile *.md set filetype=markdown
 
-map <C-f> :NERDTreeToggle<CR>
 let g:UltiSnipsExpandTrigger="<tab>"
 let g:UltiSnipsJumpForwardTrigger="<c-b>"
 let g:UltiSnipsJumpBackwardTrigger="<c-z>"
