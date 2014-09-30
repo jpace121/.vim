@@ -18,7 +18,7 @@ execute pathogen#infect()
 
 if has("gui_macvim")
     set background=dark
-	colorscheme wombat256
+	colorscheme solarized
 	set guifont=Monaco:h11
 else
 	set background=dark
