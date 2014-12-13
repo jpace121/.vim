@@ -24,5 +24,5 @@ git clone https://github.com/terryma/vim-multiple-cursors.git ./bundle/vim-multi
 git clone https://github.com/Lokaltog/vim-easymotion.git ./bundle/vim-easymotion
 
 #rust lang suport 
-git clone https://github.com/wting/rust.vim.git
+git clone https://github.com/wting/rust.vim.git ./bundle/rust.vim
 
