@@ -8,6 +8,8 @@ set sts=4
 set sw=4
 set expandtab
 set smarttab
+"This is for setting Makefiles with tabs not spaces
+autocmd FileType make setlocal noexpandtab
 
 set ruler
 
