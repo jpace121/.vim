@@ -38,4 +38,6 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 map <Leader>s <Plug>(easymotion-s)
 map <Leader>j <Plug>(easymotion-j)
 
+let g:go_fmt_fail_silently = 1
+
 "Sometime I should check all these settings.
