@@ -28,3 +28,6 @@ git clone https://github.com/wting/rust.vim.git ./bundle/rust.vim
 
 #golang support
 git clone https://github.com/fatih/vim-go.git ./bundle/vim-go
+
+#tmux-navigator
+git clone https://github.com/christoomey/vim-tmux-navigator.git ./bundle/vim-tmux-navigator
