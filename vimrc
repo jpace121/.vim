@@ -30,6 +30,7 @@ endif
 set t_Co=256
 
 au BufRead,BufNewFile *.md set filetype=markdown
+au BufRead,BufNewFile *.ino set filetype=cpp
 
 let g:UltiSnipsExpandTrigger="<tab>"
 let g:UltiSnipsJumpForwardTrigger="<c-b>"
